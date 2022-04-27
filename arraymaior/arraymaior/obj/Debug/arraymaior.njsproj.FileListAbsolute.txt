@@ -1,0 +1,3 @@
+C:\Users\55119\source\repos\arraymaior\arraymaior\obj\Debug\arraymaior.njsproj.AssemblyReference.cache
+C:\Users\55119\source\repos\arraymaior\arraymaior\obj\Debug\arraymaior.njsproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\arraymaior\arraymaior\bin\Microsoft.NodejsTools.WebRole.dll
